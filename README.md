@@ -17,4 +17,4 @@ The **Nuclear Transparency Project (NTP)** is a Canadian-registered not-for-prof
 
 For more information, please refer to https://nucleartransparency.ca/
 
-- Tableau Public Visualizations: https://public.tableau.com/app/profile/alan1016
+Tableau Public Visualizations: https://public.tableau.com/app/profile/alan1016
