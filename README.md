@@ -13,12 +13,12 @@ Open Data Source: https://open.canada.ca/data/en/dataset/6ed50cd9-0d8c-471b-a5f6
 
 ## About NTP:
 
-The Nuclear Transparency Project (NTP) is a Canadian-registered not-for-profit organization dedicated to supporting open, informed, and equitable public discourse on nuclear technologies. NTP advocates for robust public access to data and other types of information and helps to produce accessible analysis of publicly available information, all with a view to supporting greater transparency in the Canadian nuclear sector. NTP is comprised of a multi-disciplinary group of experts working to examine the economic, ecological, and social facets and impacts of the Canadian nuclear sector. The organization produces public reports, academic articles, and other publicly accessible resources. It also regularly intervenes in nuclear regulatory decision-making processes. The organization seeks to support youth and early career scholars, especially those from underrepresented communities in their respective disciplines. NTP also recognizes a responsibility to model the transparency and accountability practices for which it advocates. We are committed to interdisciplinary, cross-sectoral, and equitable collaborations and dialogue between regulators, industry, civil society, members of host and potential host communities, as well as academics and professionals from science, technology, engineering and math (STEM) fields, the social sciences, and humanities.
+The **Nuclear Transparency Project (NTP)** is a Canadian-registered not-for-profit organization dedicated to supporting open, informed, and equitable public discourse on nuclear technologies. NTP advocates for robust public access to data and other types of information and helps to produce accessible analysis of publicly available information, all with a view to supporting greater transparency in the Canadian nuclear sector. NTP is comprised of a multi-disciplinary group of experts working to examine the economic, ecological, and social facets and impacts of the Canadian nuclear sector. The organization produces public reports, academic articles, and other publicly accessible resources. It also regularly intervenes in nuclear regulatory decision-making processes. The organization seeks to support youth and early career scholars, especially those from underrepresented communities in their respective disciplines. NTP also recognizes a responsibility to model the transparency and accountability practices for which it advocates. We are committed to interdisciplinary, cross-sectoral, and equitable collaborations and dialogue between regulators, industry, civil society, members of host and potential host communities, as well as academics and professionals from science, technology, engineering and math (STEM) fields, the social sciences, and humanities.
 
 For more information, please refer to https://nucleartransparency.ca/
 
 ## Table of Contents
-1  Nuclear Power Plants
+- 1  Nuclear Power Plants
 1.1  First Look at the Dataframe
 1.2  Creating Geographic Reference Table
 1.3  Cleaning of the Dataframe
@@ -33,7 +33,7 @@ For more information, please refer to https://nucleartransparency.ca/
 1.4.8  Total noble gases
 1.5  Individual Plotting by Substance & Facility
 1.6  Comparison with 2020 Dataframe
-2  Nuclear Processing Facilities:
+- 2  Nuclear Processing Facilities:
 2.1  First Look at the Dataframe
 2.2  Creating Geographic Reference Table
 2.3  Cleaning of the Dataframe
@@ -51,7 +51,7 @@ For more information, please refer to https://nucleartransparency.ca/
 2.4.11  Xenon-135m
 2.5  Individual Plotting by Substance & Facility
 2.6  Comparison with 2020 Dataframe
-3  Canadian Nuclear Laboratories
+- 3  Canadian Nuclear Laboratories
 3.1  First Look at the Dataframe
 3.2  Creating Geographic Reference Table
 3.3  Cleaning of the Dataframe
@@ -76,7 +76,7 @@ For more information, please refer to https://nucleartransparency.ca/
 3.4.18  Xenon-133
 3.5  Individual Plotting by Substance & Facility
 3.6  Comparison with 2020 Dataframe
-4  Uranium Mines and Mills
+- 4  Uranium Mines and Mills
 4.1  First Look at the Dataframe
 4.2  Creating Geographic Reference Table
 4.3  Cleaning of the Dataframe
