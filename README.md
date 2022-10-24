@@ -51,7 +51,7 @@ For more information, please refer to https://nucleartransparency.ca/
 2.4.11  Xenon-135m
 2.5  Individual Plotting by Substance & Facility
 2.6  Comparison with 2020 Dataframe
-### 3  Canadian Nuclear Laboratories
+#### 3  Canadian Nuclear Laboratories
 3.1  First Look at the Dataframe
 3.2  Creating Geographic Reference Table
 3.3  Cleaning of the Dataframe
