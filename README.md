@@ -18,7 +18,7 @@ The **Nuclear Transparency Project (NTP)** is a Canadian-registered not-for-prof
 For more information, please refer to https://nucleartransparency.ca/
 
 ## Table of Contents
-- 1  Nuclear Power Plants
+### 1  Nuclear Power Plants
   1.1  First Look at the Dataframe
   1.2  Creating Geographic Reference Table
   1.3  Cleaning of the Dataframe
@@ -33,7 +33,7 @@ For more information, please refer to https://nucleartransparency.ca/
 1.4.8  Total noble gases
 1.5  Individual Plotting by Substance & Facility
 1.6  Comparison with 2020 Dataframe
-- 2  Nuclear Processing Facilities:
+### 2  Nuclear Processing Facilities:
 2.1  First Look at the Dataframe
 2.2  Creating Geographic Reference Table
 2.3  Cleaning of the Dataframe
@@ -51,7 +51,7 @@ For more information, please refer to https://nucleartransparency.ca/
 2.4.11  Xenon-135m
 2.5  Individual Plotting by Substance & Facility
 2.6  Comparison with 2020 Dataframe
-- 3  Canadian Nuclear Laboratories
+### 3  Canadian Nuclear Laboratories
 3.1  First Look at the Dataframe
 3.2  Creating Geographic Reference Table
 3.3  Cleaning of the Dataframe
@@ -76,7 +76,7 @@ For more information, please refer to https://nucleartransparency.ca/
 3.4.18  Xenon-133
 3.5  Individual Plotting by Substance & Facility
 3.6  Comparison with 2020 Dataframe
-- 4  Uranium Mines and Mills
+### 4  Uranium Mines and Mills
 4.1  First Look at the Dataframe
 4.2  Creating Geographic Reference Table
 4.3  Cleaning of the Dataframe
