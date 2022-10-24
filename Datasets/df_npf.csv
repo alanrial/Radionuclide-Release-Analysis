@@ -1,0 +1,190 @@
+,Year,Facility Name,Substance Name (English),Units,Stack Emissions,Direct Discharge
+0,2013,BWXT - Peterborough,Estimated public dose (see footnote),mSv/a,0.0,0.0
+1,2013,BWXT - Peterborough,Uranium,kg,1.3e-05,0.0
+2,2013,BWXT - Toronto,Estimated public dose (see footnote),mSv/a,0.0006,0.0
+3,2013,BWXT - Toronto,Uranium,kg,0.0104,0.0
+4,2013,Blind River Refinery,Estimated public dose (see footnote),mSv/a,0.012,0.0
+5,2013,Blind River Refinery,Radium-226,MBq,0.0,1.93
+6,2013,Blind River Refinery,Uranium,kg,4.1,3.6
+7,2013,Cameco Fuel Manufacturing,Estimated public dose (see footnote),mSv/a,0.013,0.0
+8,2013,Cameco Fuel Manufacturing,Uranium,kg,0.51,0.0
+9,2013,Nordion - Ottawa,Cobalt-60,GBq,0.005,0.0
+10,2013,Nordion - Ottawa,Estimated public dose (see footnote),mSv/a,0.0195,0.0
+11,2013,Nordion - Ottawa,Iodine-125,GBq,0.23,0.0
+12,2013,Nordion - Ottawa,Iodine-131,GBq,0.39,0.0
+13,2013,Nordion - Ottawa,Xenon-133,GBq,30700.0,0.0
+14,2013,Nordion - Ottawa,Xenon-135,GBq,28200.0,0.0
+15,2013,Nordion - Ottawa,Xenon-135m,GBq,43400.0,0.0
+16,2013,Port Hope Conversion Facility,Estimated public dose (see footnote),mSv/a,0.021,0.0
+17,2013,Port Hope Conversion Facility,Uranium,kg,68.4,0.0
+18,2013,SRBT,Elemental Tritium (HT),GBq,61100.0,0.0
+19,2013,SRBT,Estimated public dose (see footnote),mSv/a,0.0068,0.0
+20,2013,SRBT,Tritium (HTO),GBq,17800.0,0.0
+21,2014,BWXT - Peterborough,Estimated public dose (see footnote),mSv/a,0.0,0.0
+22,2014,BWXT - Peterborough,Uranium,kg,3e-06,0.0
+23,2014,BWXT - Toronto,Estimated public dose (see footnote),mSv/a,0.0055,0.0
+24,2014,BWXT - Toronto,Uranium,kg,0.0109,0.0
+25,2014,Blind River Refinery,Estimated public dose (see footnote),mSv/a,0.005,0.0
+26,2014,Blind River Refinery,Radium-226,MBq,0.0,1.81
+27,2014,Blind River Refinery,Uranium,kg,1.5,4.0
+28,2014,Cameco Fuel Manufacturing,Estimated public dose (see footnote),mSv/a,0.018,0.0
+29,2014,Cameco Fuel Manufacturing,Uranium,kg,0.41,0.0
+30,2014,Nordion - Ottawa,Cobalt-60,GBq,0.005,0.0
+31,2014,Nordion - Ottawa,Estimated public dose (see footnote),mSv/a,0.0214,0.0
+32,2014,Nordion - Ottawa,Iodine-125,GBq,0.14,0.0
+33,2014,Nordion - Ottawa,Iodine-131,GBq,0.46,0.0
+34,2014,Nordion - Ottawa,Xenon-133,GBq,15000.0,0.0
+35,2014,Nordion - Ottawa,Xenon-135,GBq,13100.0,0.0
+36,2014,Nordion - Ottawa,Xenon-135m,GBq,18200.0,0.0
+37,2014,Port Hope Conversion Facility,Estimated public dose (see footnote),mSv/a,0.012,0.0
+38,2014,Port Hope Conversion Facility,Uranium,kg,33.4,0.0
+39,2014,SRBT,Elemental Tritium (HT),GBq,54800.0,0.0
+40,2014,SRBT,Estimated public dose (see footnote),mSv/a,0.0068,0.0
+41,2014,SRBT,Tritium (HTO),GBq,10700.0,0.0
+42,2015,BWXT - Peterborough,Estimated public dose (see footnote),mSv/a,0.0,0.0
+43,2015,BWXT - Peterborough,Uranium,kg,3e-06,0.0
+44,2015,BWXT - Toronto,Estimated public dose (see footnote),mSv/a,0.0101,0.0
+45,2015,BWXT - Toronto,Uranium,kg,0.0108,0.0
+46,2015,Blind River Refinery,Estimated public dose (see footnote),mSv/a,0.005,0.0
+47,2015,Blind River Refinery,Radium-226,MBq,0.0,1.06
+48,2015,Blind River Refinery,Uranium,kg,1.3,2.6
+49,2015,Cameco Fuel Manufacturing,Estimated public dose (see footnote),mSv/a,0.025,0.0
+50,2015,Cameco Fuel Manufacturing,Uranium,kg,0.46,0.0
+51,2015,Nordion - Ottawa,Cobalt-60,GBq,0.005,0.0
+52,2015,Nordion - Ottawa,Estimated public dose (see footnote),mSv/a,0.0095,0.0
+53,2015,Nordion - Ottawa,Iodine-125,GBq,0.12,0.0
+54,2015,Nordion - Ottawa,Iodine-131,GBq,0.15,0.0
+55,2015,Nordion - Ottawa,Xenon-133,GBq,11900.0,0.0
+56,2015,Nordion - Ottawa,Xenon-135,GBq,8240.0,0.0
+57,2015,Nordion - Ottawa,Xenon-135m,GBq,10800.0,0.0
+58,2015,Port Hope Conversion Facility,Estimated public dose (see footnote),mSv/a,0.006,0.0
+59,2015,Port Hope Conversion Facility,Uranium,kg,38.7,0.0
+60,2015,SRBT,Elemental Tritium (HT),GBq,44700.0,0.0
+61,2015,SRBT,Estimated public dose (see footnote),mSv/a,0.0068,0.0
+62,2015,SRBT,Tritium (HTO),GBq,11500.0,0.0
+63,2016,BWXT - Peterborough,Estimated public dose (see footnote),mSv/a,0.0,0.0
+64,2016,BWXT - Peterborough,Uranium,kg,4e-06,0.0
+65,2016,BWXT - Toronto,Estimated public dose (see footnote),mSv/a,0.0007,0.0
+66,2016,BWXT - Toronto,Uranium,kg,0.0108,0.0
+67,2016,Blind River Refinery,Estimated public dose (see footnote),mSv/a,0.005,0.0
+68,2016,Blind River Refinery,Radium-226,MBq,0.0,0.92
+69,2016,Blind River Refinery,Uranium,kg,1.0,1.2
+70,2016,Cameco Fuel Manufacturing,Estimated public dose (see footnote),mSv/a,0.023,0.0
+71,2016,Cameco Fuel Manufacturing,Uranium,kg,0.73,0.0
+72,2016,Nordion - Ottawa,Cobalt-60,GBq,0.006,0.0
+73,2016,Nordion - Ottawa,Estimated public dose (see footnote),mSv/a,0.0021,0.0
+74,2016,Nordion - Ottawa,Iodine-125,GBq,0.21,0.0
+75,2016,Nordion - Ottawa,Iodine-131,GBq,0.35,0.0
+76,2016,Nordion - Ottawa,Xenon-133,GBq,7280.0,0.0
+77,2016,Nordion - Ottawa,Xenon-135,GBq,4300.0,0.0
+78,2016,Nordion - Ottawa,Xenon-135m,GBq,5420.0,0.0
+79,2016,Port Hope Conversion Facility,Estimated public dose (see footnote),mSv/a,0.02,0.0
+80,2016,Port Hope Conversion Facility,Uranium,kg,34.3,0.0
+81,2016,SRBT,Elemental Tritium (HT),GBq,22700.0,0.0
+82,2016,SRBT,Estimated public dose (see footnote),mSv/a,0.0046,0.0
+83,2016,SRBT,Tritium (HTO),GBq,6290.0,0.0
+84,2017,BWXT - Peterborough,Estimated public dose (see footnote),mSv/a,0.0,0.0
+85,2017,BWXT - Peterborough,Uranium,kg,2e-06,0.0
+86,2017,BWXT - Toronto,Estimated public dose (see footnote),mSv/a,0.0175,0.0
+87,2017,BWXT - Toronto,Uranium,kg,0.0074,0.0
+88,2017,Blind River Refinery,Estimated public dose (see footnote),mSv/a,0.005,0.0
+89,2017,Blind River Refinery,Radium-226,MBq,0.0,1.04
+90,2017,Blind River Refinery,Uranium,kg,0.8,1.9
+91,2017,Cameco Fuel Manufacturing,Estimated public dose (see footnote),mSv/a,0.022,0.0
+92,2017,Cameco Fuel Manufacturing,Uranium,kg,0.57,0.0
+93,2017,Nordion - Ottawa,Cobalt-60,GBq,0.0034,0.0
+94,2017,Nordion - Ottawa,Estimated public dose (see footnote),mSv/a,5.2e-05,0.0
+95,2017,Nordion - Ottawa,Iodine-125,GBq,0.0012,0.0
+96,2017,Nordion - Ottawa,Iodine-131,GBq,0.0008,0.0
+97,2017,Nordion - Ottawa,Xenon-133,GBq,0.0,0.0
+98,2017,Nordion - Ottawa,Xenon-135,GBq,0.0,0.0
+99,2017,Nordion - Ottawa,Xenon-135m,GBq,0.0,0.0
+100,2017,Port Hope Conversion Facility,Estimated public dose (see footnote),mSv/a,0.263,0.0
+101,2017,Port Hope Conversion Facility,Uranium,kg,31.5,0.0
+102,2017,SRBT,Elemental Tritium (HT),GBq,17600.0,0.0
+103,2017,SRBT,Estimated public dose (see footnote),mSv/a,0.0033,0.0
+104,2017,SRBT,Tritium (HTO),GBq,7200.0,0.0
+105,2018,BWXT - Peterborough,Estimated public dose (see footnote),mSv/a,0.0,0.0
+106,2018,BWXT - Peterborough,Uranium,kg,2e-06,0.0
+107,2018,BWXT - Toronto,Estimated public dose (see footnote),mSv/a,0.0004,0.0
+108,2018,BWXT - Toronto,Uranium,kg,0.0063,0.0
+109,2018,Blind River Refinery,Estimated public dose (see footnote),mSv/a,0.005,0.0
+110,2018,Blind River Refinery,Radium-226,MBq,0.0,1.05
+111,2018,Blind River Refinery,Uranium,kg,1.2,1.9
+112,2018,Cameco Fuel Manufacturing,Estimated public dose (see footnote),mSv/a,0.03,0.0
+113,2018,Cameco Fuel Manufacturing,Uranium,kg,1.25,0.0
+114,2018,Nordion - Ottawa,Cobalt-60,GBq,0.002,0.0
+115,2018,Nordion - Ottawa,Estimated public dose (see footnote),mSv/a,6.7e-05,0.0
+116,2018,Nordion - Ottawa,Iodine-125,GBq,0.0,0.0
+117,2018,Nordion - Ottawa,Iodine-131,GBq,0.006,0.0
+118,2018,Nordion - Ottawa,Xenon-133,GBq,0.0,0.0
+119,2018,Nordion - Ottawa,Xenon-135,GBq,0.0,0.0
+120,2018,Nordion - Ottawa,Xenon-135m,GBq,0.0,0.0
+121,2018,Port Hope Conversion Facility,Estimated public dose (see footnote),mSv/a,0.31499999999999995,0.0
+122,2018,Port Hope Conversion Facility,Uranium,kg,34.1,0.0
+123,2018,SRBT,Elemental Tritium (HT),GBq,22400.0,0.0
+124,2018,SRBT,Estimated public dose (see footnote),mSv/a,0.0038,0.0
+125,2018,SRBT,Tritium (HTO),GBq,10700.0,0.0
+126,2019,BWXT - Peterborough,Estimated public dose (see footnote),mSv/a,0.0115,0.0
+127,2019,BWXT - Peterborough,Uranium,kg,4e-06,0.0
+128,2019,BWXT - Toronto,Estimated public dose (see footnote),mSv/a,0.023,0.0
+129,2019,BWXT - Toronto,Uranium,kg,0.007,0.0
+130,2019,Blind River Refinery,Estimated public dose (see footnote),mSv/a,0.005,0.0
+131,2019,Blind River Refinery,Radium-226,MBq,0.0,2.1
+132,2019,Blind River Refinery,Uranium,kg,2.0,2.7
+133,2019,Cameco Fuel Manufacturing,Estimated public dose (see footnote),mSv/a,0.027,0.0
+134,2019,Cameco Fuel Manufacturing,Uranium,kg,1.09,0.0
+135,2019,Nordion - Ottawa,Cobalt-60,GBq,2e-05,0.0
+136,2019,Nordion - Ottawa,Estimated public dose (see footnote),mSv/a,8.7e-05,0.0
+137,2019,Nordion - Ottawa,Iodine-125,GBq,0.0,0.0
+138,2019,Nordion - Ottawa,Iodine-131,GBq,0.0,0.0
+139,2019,Nordion - Ottawa,Xenon-133,GBq,0.0,0.0
+140,2019,Nordion - Ottawa,Xenon-135,GBq,0.0,0.0
+141,2019,Nordion - Ottawa,Xenon-135m,GBq,0.0,0.0
+142,2019,Port Hope Conversion Facility,Estimated public dose (see footnote),mSv/a,0.20700000000000002,0.0
+143,2019,Port Hope Conversion Facility,Uranium,kg,48.5,0.0
+144,2019,SRBT,Elemental Tritium (HT),GBq,19900.0,0.0
+145,2019,SRBT,Estimated public dose (see footnote),mSv/a,0.0022,0.0
+146,2019,SRBT,Tritium (HTO),GBq,11900.0,0.0
+147,2020,BWXT - Peterborough,Estimated public dose (see footnote),mSv/a,0.0,0.0
+148,2020,BWXT - Peterborough,Uranium,kg,3e-06,0.0
+149,2020,BWXT - Toronto,Estimated public dose (see footnote),mSv/a,0.0057,0.0
+150,2020,BWXT - Toronto,Uranium,kg,0.008,0.0
+151,2020,Blind River Refinery,Estimated public dose (see footnote),mSv/a,0.009,0.0
+152,2020,Blind River Refinery,Radium-226,MBq,0.0,1.4
+153,2020,Blind River Refinery,Uranium,kg,4.8,2.8
+154,2020,Cameco Fuel Manufacturing,Estimated public dose (see footnote),mSv/a,0.02,0.0
+155,2020,Cameco Fuel Manufacturing,Uranium,kg,0.92,0.0
+156,2020,Nordion - Ottawa,Cobalt-60,GBq,0.0,0.0
+157,2020,Nordion - Ottawa,Estimated public dose (see footnote),mSv/a,0.00122,0.0
+158,2020,Nordion - Ottawa,Iodine-125,GBq,0.0,0.0
+159,2020,Nordion - Ottawa,Iodine-131,GBq,0.0,0.0
+160,2020,Nordion - Ottawa,Xenon-133,GBq,0.0,0.0
+161,2020,Nordion - Ottawa,Xenon-135,GBq,0.0,0.0
+162,2020,Nordion - Ottawa,Xenon-135m,GBq,0.0,0.0
+163,2020,Port Hope Conversion Facility,Estimated public dose (see footnote),mSv/a,0.246,0.0
+164,2020,Port Hope Conversion Facility,Uranium,kg,44.4,0.0
+165,2020,SRBT,Elemental Tritium (HT),GBq,15400.0,0.0
+166,2020,SRBT,Estimated public dose (see footnote),mSv/a,0.0024,0.0
+167,2020,SRBT,Tritium (HTO),GBq,9750.0,0.0
+168,2021,BWXT - Peterborough,Estimated public dose (see footnote),mSv/a,0.0,0.0
+169,2021,BWXT - Peterborough,Uranium,kg,0.0,0.0
+170,2021,BWXT - Toronto,Estimated public dose (see footnote),mSv/a,0.0175,0.0
+171,2021,BWXT - Toronto,Uranium,kg,0.005,0.0
+172,2021,Blind River Refinery,Estimated public dose (see footnote),mSv/a,0.009,0.0
+173,2021,Blind River Refinery,Radium-226,MBq,0.0,2.2
+174,2021,Blind River Refinery,Uranium,kg,3.2,2.2
+175,2021,Cameco Fuel Manufacturing,Estimated public dose (see footnote),mSv/a,0.372,0.0
+176,2021,Cameco Fuel Manufacturing,Uranium,kg,0.89,0.0
+177,2021,Nordion - Ottawa,Cobalt-60,GBq,4e-05,0.0
+178,2021,Nordion - Ottawa,Estimated public dose (see footnote),mSv/a,0.00135,0.0
+179,2021,Nordion - Ottawa,Iodine-125,GBq,0.0,0.0
+180,2021,Nordion - Ottawa,Iodine-131,GBq,0.0,0.0
+181,2021,Nordion - Ottawa,Xenon-133,GBq,0.0,0.0
+182,2021,Nordion - Ottawa,Xenon-135,GBq,0.0,0.0
+183,2021,Nordion - Ottawa,Xenon-135m,GBq,0.0,0.0
+184,2021,Port Hope Conversion Facility,Estimated public dose (see footnote),mSv/a,0.15799999999999997,0.0
+185,2021,Port Hope Conversion Facility,Uranium,kg,39.0,0.0
+186,2021,SRBT,Elemental Tritium (HT),GBq,20300.0,0.0
+187,2021,SRBT,Estimated public dose (see footnote),mSv/a,0.002,0.0
+188,2021,SRBT,Tritium (HTO),GBq,8390.0,0.0
