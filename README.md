@@ -4,10 +4,10 @@ The following Data Analysis was performed by Alan Rial (https://www.linkedin.com
 
 ## 4 Categories of facilities to analyze:
 
-Nuclear Power Plants
-Nuclear Processing Facilities
-Canadian Nuclear Laboratories
-Uranium Mines and Mills
+- Nuclear Power Plants
+- Nuclear Processing Facilities
+- Canadian Nuclear Laboratories
+- Uranium Mines and Mills
 
 Open Data Source: https://open.canada.ca/data/en/dataset/6ed50cd9-0d8c-471b-a5f6-26088298870e
 
