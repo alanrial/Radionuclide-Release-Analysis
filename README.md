@@ -19,9 +19,9 @@ For more information, please refer to https://nucleartransparency.ca/
 
 ## Table of Contents
 - 1  Nuclear Power Plants
-- 1.1  First Look at the Dataframe
-- 1.2  Creating Geographic Reference Table
-- 1.3  Cleaning of the Dataframe
+  1.1  First Look at the Dataframe
+  1.2  Creating Geographic Reference Table
+  1.3  Cleaning of the Dataframe
 1.4  Plotting by Substance
 1.4.1  Estimated public dose
 1.4.2  Tritium (HTO)
