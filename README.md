@@ -3,17 +3,14 @@
 ## Introduction
 The following Data Analysis was performed by **Alan Rial** (https://www.linkedin.com/in/alan-rial/) for **Nuclear Transparency Project**, and was finalized on 10/24/2022. 
 
-## Description
-
+## Objective
+Analyze the quality of open-access radionuclide release datasets, by identifying patterns, trends, unusual values, and missing data to inform regulatory legal submissions related to nuclear transparency and data disclosure for the Canadian Nuclear Safety Commission (CNSC).
 
 ## 4 Categories of facilities to analyze:
 - Nuclear Power Plants
 - Nuclear Processing Facilities
 - Canadian Nuclear Laboratories
 - Uranium Mines and Mills
-
-## Objective
-Analyze the quality of open-access radionuclide release datasets, by identifying patterns, trends, unusual values, and missing data to inform regulatory legal submissions related to nuclear transparency and data disclosure for the Canadian Nuclear Safety Commission (CNSC).
 
 ## Tools
 1) Microsoft Excel
