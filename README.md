@@ -13,10 +13,10 @@ Analyze the quality of open-access radionuclide release datasets, by identifying
 - Uranium Mines and Mills
 
 ## Tools
-1) Microsoft Excel
-2) Python: Numpy, Pandas, Matplotlib
-3) Jupyter Notebook
-4) Tableau 
+- Microsoft Excel
+- Python: Numpy, Pandas, Matplotlib
+- Jupyter Notebook
+- Tableau 
 
 ## Steps
 1) Data exploration
